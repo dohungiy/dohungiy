@@ -4,6 +4,9 @@
   <h3 align="center">Avid developer from Vietnam 🇻🇳, crafting with .NET Core and Angular!</h3>
 </p>
 
+
+It's hard to forget you
+
 <br />
 
 ## 📫 How to reach me:
